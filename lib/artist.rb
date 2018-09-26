@@ -4,6 +4,5 @@ class Artist
   def initialize(name)
     @name = name
   end
-  
+  artist = Artist.new 
 end
-artist = Artist.new 
