@@ -6,5 +6,5 @@ class Artist
   end
  
 end
-
+beyonace.Artist.new("Beyonce")
 song.Artist.name 
