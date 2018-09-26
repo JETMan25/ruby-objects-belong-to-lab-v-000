@@ -6,3 +6,5 @@ class Artist
   end
  
 end
+
+song.Artist.name 
